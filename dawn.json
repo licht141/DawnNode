@@ -1,0 +1,14 @@
+{
+    "api": {
+        "url1": "https://www.aeropres.in/api/atom/v1/userreferral/getpoint",
+        "url2": "https://www.aeropres.in/chromeapi/dawn/v1/userreward/keepalive"
+    },
+    "settings": {
+        "user_id": "",
+        "token": "",
+        "use_proxy": false
+    },
+    "network": {
+        "proxy_list": "proxies.txt"
+    }
+}
